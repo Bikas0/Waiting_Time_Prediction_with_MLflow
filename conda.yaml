@@ -1,7 +1,7 @@
 name: Waiting_Time_Prediction
 
 channels:
-  - defaults
+  - conda-forge
 
 dependencies:
   - python=3.10.13
